@@ -1,5 +1,5 @@
 # VirusBroadcastController
-这是一个模拟病毒传播的Java小程序，是在KikiLetGo / VirusBroadcast(https://github.com/KikiLetGo/VirusBroadcast)工作的基础上修改的，主要做了以下工作：
+这是一个模拟病毒传播的Java小程序，是在KikiLetGo / VirusBroadcast (https://github.com/KikiLetGo/VirusBroadcast) 工作的基础上修改的，主要做了以下工作：
 1）添加了控制器界面，便于非程序人员操作；
 2）根据屏幕分辨率做了适配；
 3）添加了背景图片；
