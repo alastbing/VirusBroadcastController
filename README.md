@@ -20,7 +20,7 @@
 效果图：
 
 1）控制器
-![image](https://github.com/alastbing/VirusBroadcastController/blob/master/VirusBroadcastController/src/img/c.png)
+![add image](https://github.com/alastbing/VirusBroadcastController/blob/master/VirusBroadcastController/src/img/c.png)
 
 2）主界面
-![image](https://github.com/alastbing/VirusBroadcastController/blob/master/VirusBroadcastController/src/img/m.png)
+![add image](https://github.com/alastbing/VirusBroadcastController/blob/master/VirusBroadcastController/src/img/m.png)
